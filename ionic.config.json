@@ -1,0 +1,7 @@
+{
+  "name": "AgeProject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
